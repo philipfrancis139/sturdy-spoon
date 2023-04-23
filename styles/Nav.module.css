@@ -1,0 +1,15 @@
+@media(max-width:362px){
+.logo{
+    display: none !important;
+}
+}
+@media(max-width:772px){ 
+    .video1{
+        display: none !important;
+    }
+}
+@media(min-width:773px){ 
+    .video2{
+        display: none !important;
+    }
+}
